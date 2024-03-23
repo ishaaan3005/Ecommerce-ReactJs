@@ -1,3 +1,35 @@
+LANDING PAGE 
+
+
+![Screenshot 2024-03-23 140615](https://github.com/ishaaan3005/Ecommerce-ReactJs/assets/157878759/7d94e0f3-37ff-4837-ad12-bc59d8960f57)
+
+
+#PRODUCT PAGE
+
+
+![Screenshot 2024-03-23 140636](https://github.com/ishaaan3005/Ecommerce-ReactJs/assets/157878759/cada88f3-53da-4614-aa52-6a5664031eb8)
+
+
+#PRODUCT VIEW
+
+
+![Screenshot 2024-03-23 141740](https://github.com/ishaaan3005/Ecommerce-ReactJs/assets/157878759/dc9aec1f-c7a1-4477-a5a0-bbbf8c341452)
+
+
+
+#CART PAGE
+
+
+![Screenshot 2024-03-23 140756](https://github.com/ishaaan3005/Ecommerce-ReactJs/assets/157878759/d4637903-b297-4988-96d2-52e5afe8f2b3)
+
+
+
+
+
+
+
+
+
 
 ## Follow the 3 Steps and your good to go. 
 
